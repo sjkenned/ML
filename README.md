@@ -1,1 +1,1 @@
-See wiki for project information
+Experiments with ZCA whitening on K
